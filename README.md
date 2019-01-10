@@ -4,3 +4,7 @@ More Features to come..
 
 # Second Title
 More Updates
+
+# Master Updates
+Master is Updated with more Text
+Conflicts may arise!!!
