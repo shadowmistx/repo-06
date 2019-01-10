@@ -1,3 +1,6 @@
-# The Repo 6 (Enhanced++)
+# The Repo 6 (Enhanced+++)
 The latest edition of the README File!
-More features to come...
+More Features to come..
+
+# Second Title
+More Updates
