@@ -8,3 +8,5 @@ More Updates
 # Master Updates
 Master is Updated with more Text
 Conflicts may arise!!!
+# Conflict Part
+Text...
